@@ -1,0 +1,12 @@
+[package]
+name = "minsh"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+crossterm = "0.29.0"
+dirs = "6.0.0"
+nu-ansi-term = "0.50.3"
+reedline = "0.43.0"
+serde = "1.0.228"
+toml = "0.9.8"
