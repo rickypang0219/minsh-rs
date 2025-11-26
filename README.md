@@ -1,5 +1,7 @@
 # minsh - Minimal (Working) Shell written in Rust
 
+![Alt text](assets/minsh_propic.png)
+
 # Introduction
 `minsh` (a.k.a **Min**imal **Sh**ell) is a minimal shell that written in Rust. This is my `built-your-own-X` project to learn what a shell is and how to make a usable shell.
 
